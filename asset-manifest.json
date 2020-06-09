@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/star-wars-top-trumps/static/css/main.5f361e03.chunk.css",
-    "main.js": "/star-wars-top-trumps/static/js/main.d3b363da.chunk.js",
-    "main.js.map": "/star-wars-top-trumps/static/js/main.d3b363da.chunk.js.map",
-    "runtime-main.js": "/star-wars-top-trumps/static/js/runtime-main.32e3c89f.js",
-    "runtime-main.js.map": "/star-wars-top-trumps/static/js/runtime-main.32e3c89f.js.map",
-    "static/js/2.8f455ea4.chunk.js": "/star-wars-top-trumps/static/js/2.8f455ea4.chunk.js",
-    "static/js/2.8f455ea4.chunk.js.map": "/star-wars-top-trumps/static/js/2.8f455ea4.chunk.js.map",
-    "index.html": "/star-wars-top-trumps/index.html",
-    "precache-manifest.68db9d751c86466ac1b21f577f54305f.js": "/star-wars-top-trumps/precache-manifest.68db9d751c86466ac1b21f577f54305f.js",
-    "service-worker.js": "/star-wars-top-trumps/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/star-wars-top-trumps/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.8f455ea4.chunk.js.LICENSE.txt": "/star-wars-top-trumps/static/js/2.8f455ea4.chunk.js.LICENSE.txt"
+    "main.css": "/starwars-top-trumps/static/css/main.5f361e03.chunk.css",
+    "main.js": "/starwars-top-trumps/static/js/main.9650d148.chunk.js",
+    "main.js.map": "/starwars-top-trumps/static/js/main.9650d148.chunk.js.map",
+    "runtime-main.js": "/starwars-top-trumps/static/js/runtime-main.d587e1d5.js",
+    "runtime-main.js.map": "/starwars-top-trumps/static/js/runtime-main.d587e1d5.js.map",
+    "static/js/2.60921433.chunk.js": "/starwars-top-trumps/static/js/2.60921433.chunk.js",
+    "static/js/2.60921433.chunk.js.map": "/starwars-top-trumps/static/js/2.60921433.chunk.js.map",
+    "index.html": "/starwars-top-trumps/index.html",
+    "precache-manifest.a338126c3f5c999ced1fa3d4c844bb05.js": "/starwars-top-trumps/precache-manifest.a338126c3f5c999ced1fa3d4c844bb05.js",
+    "service-worker.js": "/starwars-top-trumps/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/starwars-top-trumps/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.60921433.chunk.js.LICENSE.txt": "/starwars-top-trumps/static/js/2.60921433.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.32e3c89f.js",
-    "static/js/2.8f455ea4.chunk.js",
+    "static/js/runtime-main.d587e1d5.js",
+    "static/js/2.60921433.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d3b363da.chunk.js"
+    "static/js/main.9650d148.chunk.js"
   ]
 }
