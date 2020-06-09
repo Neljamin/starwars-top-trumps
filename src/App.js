@@ -3,6 +3,7 @@ import TopTrumps from "top-trumps";
 
 import './App.css';
 import { starWarsDataService } from './services';
+import theme from "./styles/theme";
 
 function App() {
 	const [cards, setCards] = useState();
@@ -20,7 +21,7 @@ function App() {
 	}
 	
 	return (
-		<TopTrumps cards={cards} />
+		<TopTrumps cards={cards} customTheme={theme} />
 	);
 }
 
