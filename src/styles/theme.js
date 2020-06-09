@@ -9,14 +9,14 @@ export default _.merge(
     {
         user: {
             scoreColor: 'white',
-            backgroundImage: '/images/user-background.jpg',
+            backgroundImage: 'https://i.imgur.com/SnroKpK.jpg',
             backFace: {
                 innerBackgroundColor: '#546940',
             }
         },
         computer: {
             scoreColor: 'white',
-            backgroundImage: '/images/computer-background.jpeg',
+            backgroundImage: 'https://i.imgur.com/BR7Fd0a.jpg',
             backFace: {
                 innerBackgroundColor: '#8A0000',
                 avatarIconColor: '#000000',
