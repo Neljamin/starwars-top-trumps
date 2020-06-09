@@ -1,26 +1,27 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useEffect, useState } from 'react';
+import TopTrumps from "top-trumps";
+
 import './App.css';
+import { starWarsDataService } from './services';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	const [cards, setCards] = useState();
+
+	useEffect(() => {
+		(async function loadCards() {
+			const starWarsCards = await starWarsDataService.getStarShips();
+			setCards(starWarsCards);
+		})();
+		// eslint-disable-next-line
+	}, []);
+
+	if (!cards) {
+		return null;
+	}
+	
+	return (
+		<TopTrumps cards={cards} />
+	);
 }
 
 export default App;
