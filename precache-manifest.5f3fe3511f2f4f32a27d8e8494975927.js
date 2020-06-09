@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6f11f384af63c53bf0b7cf1122ebf24",
+    "revision": "9421bb6ee7a3cf624001cb782198959d",
     "url": "/starwars-top-trumps/index.html"
   },
   {
-    "revision": "74a28f239f4d9d9c7f5c",
+    "revision": "ddf5d79adf6b492fe913",
     "url": "/starwars-top-trumps/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-top-trumps/static/js/2.60921433.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74a28f239f4d9d9c7f5c",
-    "url": "/starwars-top-trumps/static/js/main.9650d148.chunk.js"
+    "revision": "ddf5d79adf6b492fe913",
+    "url": "/starwars-top-trumps/static/js/main.35c47e81.chunk.js"
   },
   {
     "revision": "acdfe1772e13d1cf3590",

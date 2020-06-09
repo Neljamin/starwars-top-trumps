@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/starwars-top-trumps/static/css/main.5f361e03.chunk.css",
-    "main.js": "/starwars-top-trumps/static/js/main.9650d148.chunk.js",
-    "main.js.map": "/starwars-top-trumps/static/js/main.9650d148.chunk.js.map",
+    "main.js": "/starwars-top-trumps/static/js/main.35c47e81.chunk.js",
+    "main.js.map": "/starwars-top-trumps/static/js/main.35c47e81.chunk.js.map",
     "runtime-main.js": "/starwars-top-trumps/static/js/runtime-main.d587e1d5.js",
     "runtime-main.js.map": "/starwars-top-trumps/static/js/runtime-main.d587e1d5.js.map",
     "static/js/2.60921433.chunk.js": "/starwars-top-trumps/static/js/2.60921433.chunk.js",
     "static/js/2.60921433.chunk.js.map": "/starwars-top-trumps/static/js/2.60921433.chunk.js.map",
     "index.html": "/starwars-top-trumps/index.html",
-    "precache-manifest.a338126c3f5c999ced1fa3d4c844bb05.js": "/starwars-top-trumps/precache-manifest.a338126c3f5c999ced1fa3d4c844bb05.js",
+    "precache-manifest.5f3fe3511f2f4f32a27d8e8494975927.js": "/starwars-top-trumps/precache-manifest.5f3fe3511f2f4f32a27d8e8494975927.js",
     "service-worker.js": "/starwars-top-trumps/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/starwars-top-trumps/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.60921433.chunk.js.LICENSE.txt": "/starwars-top-trumps/static/js/2.60921433.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d587e1d5.js",
     "static/js/2.60921433.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9650d148.chunk.js"
+    "static/js/main.35c47e81.chunk.js"
   ]
 }

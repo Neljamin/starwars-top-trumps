@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starwars-top-trumps/precache-manifest.a338126c3f5c999ced1fa3d4c844bb05.js"
+  "/starwars-top-trumps/precache-manifest.5f3fe3511f2f4f32a27d8e8494975927.js"
 );
 
 self.addEventListener('message', (event) => {
